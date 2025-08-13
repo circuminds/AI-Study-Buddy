@@ -30,7 +30,6 @@ cd ai-study-buddy
 
 If starting from scratch, create a new folder and initialize a Git repo (optional):
 
-bash
 mkdir ai-study-buddy
 cd ai-study-buddy
 git init
