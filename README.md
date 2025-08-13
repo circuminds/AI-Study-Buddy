@@ -5,6 +5,9 @@ AI Study Buddy is a simple Streamlit app powered by OpenAI GPT-5 API that lets y
 - Ask questions on any topic  
 - Generate quizzes on a topic  
 - Create flashcards for study
+- 
+<img width="909" height="807" alt="image" src="/ref/endpoint.png" />
+
 
 This README guides you through setting up and running the project from scratch.
 
