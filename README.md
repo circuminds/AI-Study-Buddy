@@ -32,5 +32,4 @@ If starting from scratch, create a new folder and initialize a Git repo (optiona
 
 mkdir ai-study-buddy
 cd ai-study-buddy
-git init```
-
+git init
