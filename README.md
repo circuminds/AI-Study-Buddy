@@ -1,3 +1,5 @@
+https://circuminds.com/
+
 # AI Study Buddy
 
 AI Study Buddy is a simple Streamlit app powered by OpenAI GPT-5 API that lets you:
