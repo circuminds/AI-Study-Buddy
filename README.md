@@ -36,3 +36,48 @@ mkdir ai-study-buddy
 cd ai-study-buddy
 git init
 ```
+
+## Step 2: Set Up a Python Virtual Environment
+
+```bash
+Create a virtual environment for dependency isolation:
+python3 -m venv venv
+```
+
+Activate the virtual environment: <br>
+
+On Windows:
+```bash
+.\venv\Scripts\activate
+
+On macOS/Linux
+```bash
+source venv/bin/activate
+```
+
+## Step 3: Install Required Packages
+Install Streamlit and the OpenAI Python client library:
+
+```bash
+pip install streamlit openai
+```
+
+## Step 4: Configure Environment Variables for API Key
+To keep your API key secure, set it as an environment variable.
+1. Create a .env file with:
+   
+```bash
+echo "OPENAI_API_KEY=your_openai_api_key_here" > .env
+```
+
+## Step 5: Create the Main Application File (run_app.py)
+Use the 'run_app.py' script from this repository
+
+## Step 6: Run the App Locally
+Run the app using Streamlit:
+
+```bash
+streamlit run app.py
+
+```
+Open the displayed URL (usually http://localhost:8501) in your browser to use the AI Study Buddy.
