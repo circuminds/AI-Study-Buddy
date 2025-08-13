@@ -26,11 +26,11 @@ If you haven’t already, clone the project repo to your local machine:
 
 ```bash
 git clone https://github.com/yourusername/ai-study-buddy.git
-cd ai-study-buddy```
+cd ai-study-buddy
 
 If starting from scratch, create a new folder and initialize a Git repo (optional):
 
-```bash
+bash
 mkdir ai-study-buddy
 cd ai-study-buddy
-git init```
+git init
