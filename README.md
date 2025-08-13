@@ -81,3 +81,12 @@ streamlit run app.py
 
 ```
 Open the displayed URL (usually http://localhost:8501) in your browser to use the AI Study Buddy.
+
+## Step 7: Prepare for Deployment (not covered in this project)
+1. Freeze dependencies for deployment:\
+2. Deploy using Streamlit Community Cloud (free) or Heroku(paid), AWS (paid), Azure App Service(paid) etc.
+
+
+For any query: <br>
+contact https://circuminds.com/ 
+
