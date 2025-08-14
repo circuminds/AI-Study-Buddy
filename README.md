@@ -19,7 +19,7 @@ This README guides you through setting up and running the project from scratch.
 Before you start, make sure you have:
 
 - Python 3.8 or higher installed  
-- An OpenAI API key (sign up at [OpenAI](https://platform.openai.com/signup))  
+- An OpenAI API key (you can create API key on [openAI.com](https://openai.com/))  
 - Git installed (optional, for cloning repo)  
 
 ---
