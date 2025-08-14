@@ -52,7 +52,7 @@ def answer_question(question, openai_api_key):
     input= prompt
     )
 
-    st.markdown(q.strip())
+    st.markdown(response.output_text.strip())
 
     return
 
